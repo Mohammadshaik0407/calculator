@@ -1,2 +1,2 @@
-# protfolio
-protfolio using html css
+# calculator
+calculator using html css and javascript
